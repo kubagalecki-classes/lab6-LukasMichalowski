@@ -1,0 +1,2 @@
+language = "undefined"
+run = "chmod +x run_zal.sh; ./run_zal.sh"
